@@ -1,0 +1,58 @@
+button {
+  border-radius: 0rem !important;
+}
+h6 {
+  font-size: 1.5rem !important;
+  font-weight: 500 !important;
+}
+/* banner */
+#banner {
+  background-attachment: fixed;
+  background: url(/assets/img/bgimg.jpg);
+  height: 75vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#banner .ban-cont {
+  margin-top: 10rem;
+}
+/* info */
+#info {
+  line-height: 0.02rem !important;
+  height: 30vh;
+}
+#info .info-cont {
+  margin-top: 5rem;
+}
+#info img {
+  height: 1rem;
+  width: 3rem;
+}
+/* about */
+#about .abt2 {
+  padding-top: 5.5rem;
+  height: 60vh;
+  gap: 0rem !important;
+}
+#about img {
+  height: 60vh;
+}
+#about {
+  background: whitesmoke;
+}
+/* contact */
+#contact img {
+  height: 50vh;
+}
+#contact h5 {
+  font-size: 1.7rem;
+}
+/* products */
+#products h5 {
+  font-size: 1.7rem;
+  background: rgb(243, 230, 201);
+}
+#products .main {
+  height: 50vh;
+  width: 65vh;
+}
